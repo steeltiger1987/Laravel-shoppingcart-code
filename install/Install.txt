@@ -1,0 +1,9 @@
+Laravel-Shopping-Cart :
+
+- Install Laravel 
+- Install Gulp
+- Database Migration
+- Database DB Seed 
+
+
+ 
